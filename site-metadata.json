@@ -1,0 +1,21 @@
+{
+    "palette": "blue",
+    "palettes": {
+        "blue": {
+            "sass": {
+                "color": "#4696e5"
+            }
+        },
+        "magenta": {
+            "sass": {
+                "color": "#db5c7a"
+            }
+        },
+        "purple": {
+            "sass": {
+                "color": "#786dc2"
+            }
+        }
+    },
+    "title": "Fractal"
+}
